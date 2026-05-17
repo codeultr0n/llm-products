@@ -36,3 +36,4 @@ build/
 # Data files (optional - uncomment if needed)
 # *.csv
 # *.xlsx
+chroma_db/
